@@ -44,6 +44,7 @@ A machine learning-based web application that predicts the winner of IPL matches
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib streamlit pillow
+pip install -r requirements.txt
 ▶️ Run the Application
 streamlit run Gui.py
 ```
