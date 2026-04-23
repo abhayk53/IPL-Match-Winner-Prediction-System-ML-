@@ -43,12 +43,10 @@ A machine learning-based web application that predicts the winner of IPL matches
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone [https://github.com/abhayk53/ipl-winner-predictor-ml](https://github.com/abhayk53/IPL-Match-Winner-Prediction-System-ML-).git
-cd ipl-winner-predictor-ml
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn matplotlib streamlit pillow
 ▶️ Run the Application
 streamlit run Gui.py
 ```
-<img width="1917" height="862" alt="qweq1231" src="https://github.com/user-attachments/assets/30a66a5a-049c-4264-8fd2-9c0ffbfbe30a" />
 <img width="1918" height="908" alt="221111" src="https://github.com/user-attachments/assets/6a7a1322-0ec8-46b0-a0e3-40c0cc9752b0" />
+<img width="1917" height="862" alt="qweq1231" src="https://github.com/user-attachments/assets/30a66a5a-049c-4264-8fd2-9c0ffbfbe30a" />
 
