@@ -3,6 +3,9 @@
 A machine learning-based web application that predicts the winner of IPL matches using team details, toss outcome, and venue information. Built with a clean and interactive Streamlit interface.
 
 ---
+## 🌐 Live Demo
+
+[Click here to view the live app](https://ipl-winner-predictor-ml.streamlit.app/)
 
 ## 🚀 Features
 
